@@ -34,5 +34,9 @@ char unit;
                    std::cout << "Please only enter F or C ";
         }
                 
+   std::cout << "Yor welcom. :) " << '\n';
+
+   system("pause");
+
     return 0;
 }
